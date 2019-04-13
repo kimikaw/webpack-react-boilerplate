@@ -7,4 +7,5 @@ Minimal setup for a React project
 - React
 - Webpack
 - Babel
+- Prettier
 - Hot Module Replacement
